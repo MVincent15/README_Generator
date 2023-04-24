@@ -24,6 +24,7 @@ To run, please use node index.js
 ## Usage
 
 Walkthrough Video: 
+[Untitled_ Apr 24, 2023 6_22 PM.webm](https://user-images.githubusercontent.com/123343948/234136974-f5bf8002-9a8c-4309-b7f1-b21794339d3e.webm)
 
 
 ## Credits
