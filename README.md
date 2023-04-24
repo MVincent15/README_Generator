@@ -14,9 +14,12 @@ This project will generate a custom README file based on the user inputs.
 
 ## Installation
 
+Use GitClone to clone repository, in order to use on your local computer. 
+
 To install the necessary dependencies please use npm i. 
+
 To run, please use node index.js
-Note: This uses the inquirer@8.2.4 as a dependecy. 
+ Note: This uses the inquirer@8.2.4 as a dependecy. 
 
 ## Usage
 

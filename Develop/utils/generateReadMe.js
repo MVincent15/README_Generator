@@ -11,7 +11,7 @@ renderLicenseSection = (license) => {
   if (license === 'Unlicensed'){
     return 'This project does not use a license';
   } else {
-    return `This project uses the ${data.license} license.` 
+    return `This project uses the ${license} license.` 
   }
 }
 
@@ -29,7 +29,7 @@ generateReadMe = (data) => {
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [Credits](#credits)
-  4. [License]{#license}
+  4. [License](#license)
   5. [Contributing](#contributing)
   6. [Tests](#tests)
   7. [Questions](#questions)
