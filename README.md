@@ -22,6 +22,10 @@ To run, please use node index.js
  Note: This uses the inquirer@8.2.4 as a dependecy. 
 
 ## Usage
+Screenshot: 
+
+<img width="1728" alt="Screenshot 2023-04-24 at 6 30 56 PM 3" src="https://user-images.githubusercontent.com/123343948/234137401-33e3ff12-28f8-43f9-a812-4f413e7d9e6f.png">
+
 
 Walkthrough Video: 
 [Untitled_ Apr 24, 2023 6_22 PM.webm](https://user-images.githubusercontent.com/123343948/234136974-f5bf8002-9a8c-4309-b7f1-b21794339d3e.webm)
