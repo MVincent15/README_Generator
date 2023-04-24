@@ -46,7 +46,7 @@ generateReadMe = (data) => {
   ## License 
   ${renderLicenseSection(data.license)}
 
-  ## How to Contribute
+  ## Contributing
   ${data.contribution}
 
   ## Tests
